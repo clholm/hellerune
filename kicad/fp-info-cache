@@ -1,4 +1,4 @@
-21698278050576925
+21703344079150589
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90251,6 +90251,13 @@ CAPMP3216X166
 2
 2
 cholm-footprints
+DIP794W45P254L1930H508Q16
+
+
+0
+16
+16
+cholm-footprints
 Joystick-breakout
 
 
@@ -90320,6 +90327,20 @@ SSOP 0.65
 0
 28
 28
+cholm-footprints
+est
+
+
+0
+0
+0
+cholm-footprints
+est-comic
+
+
+0
+0
+0
 cholm-footprints
 snake
 
