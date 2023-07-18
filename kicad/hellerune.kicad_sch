@@ -3594,7 +3594,7 @@
     (property "Value" "2.2k" (at 72.8472 182.753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_MELF_MMB-0207" (at 71.12 181.61 0)
+    (property "Footprint" "Resistor_SMD:R_MiniMELF_MMA-0204" (at 71.12 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.12 181.61 0)

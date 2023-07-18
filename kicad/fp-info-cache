@@ -1,4 +1,4 @@
-21703344079150589
+21706722507448643
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90303,6 +90303,20 @@ cholm-footprints
 MXOnly-2.75U-NoLED
 
 
+0
+2
+2
+cholm-footprints
+R_MELF_MMB-0207
+Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
+MELF Resistor
+0
+2
+2
+cholm-footprints
+R_MicroMELF_MMU-0102
+Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf
+MicroMELF Resistor
 0
 2
 2
